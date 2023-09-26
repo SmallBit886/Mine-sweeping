@@ -1,0 +1,5 @@
+﻿  game.c
+  text.c
+G:\C++_Text\4-5.2\4-5.2\text.c(34,22): warning C4013: “time”未定义；假设外部返回 int
+  正在生成代码...
+  4-5.2.vcxproj -> G:\C++_Text\4-5.2\x64\Debug\4-5.2.exe
